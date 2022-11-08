@@ -1,6 +1,7 @@
 ## VFSGlobalBot
 Not finished but worked for me. Contains some significant bugs. First time using python.
 ## Usage
+- execute `pip install -r requirements.txt`
 - install and configure 2Captcha Solver extension in your chrome profile
 - create one incomplete appointment
 - set your credentials in main.py EMAIL, PASSWORD, PHONE_NUMBER
